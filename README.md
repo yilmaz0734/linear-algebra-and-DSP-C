@@ -73,6 +73,9 @@ Usage
 ---
 
 Each function is implemented in its respective C file (auto_correlation.c, build_toeplitz.c, etc.). To use these functions, include the desired .c file in your project and call the corresponding function(s) as demonstrated in their respective README files.
+
+---
+
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
